@@ -4,7 +4,7 @@ import streamlit as st
 st.set_page_config(page_title="ContextLabs — AI/NLP Engineer", layout="wide")
 
 # -------------------- Header --------------------
-st.title("🧠 ContextLabs")
+st.title("🧠 Context Labs")
 st.subheader("AI/NLP Engineer | LLM Specialist | Freelance + Full-Time Roles")
 
 st.markdown("""
@@ -42,7 +42,7 @@ A multi-purpose tool that lets you upload a document and either:
 It supports multiple LLMs: GPT-3.5, DeepSeek, Zephyr, Falcon — and smart prompt building.
 """)
 
-st.markdown("[Open the Demo App >](https://llm-doc-summarizer-demo.streamlit.app/)")
+st.markdown("[Open the Demo App >](https://clabs-ai-doc-assistant.streamlit.app/)")
 
 st.markdown("---")
 
